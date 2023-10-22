@@ -1,0 +1,33 @@
+h1 {
+    color: purple;
+    font-size: 30px;
+}
+
+ol {
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+li {
+   text-align: center; 
+   border: 1px  groove red;
+   color( blue);
+   background-color: pink;
+   padding-left: 30px;      
+}
+
+body {
+    font-family: sans-serif;
+    background-color: burlywood;
+    
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p {
+padding-top: 20px;
+padding-bottom: 20px;
+}
+ 
